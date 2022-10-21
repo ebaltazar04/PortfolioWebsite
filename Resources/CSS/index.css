@@ -1,0 +1,19 @@
+* {
+    font-family: Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+  }
+   
+   
+  p {
+    font-size: 18px;
+  }
+
+img {
+	width: 375px;
+	height: 500px;
+    opacity: 0.8;
+}
