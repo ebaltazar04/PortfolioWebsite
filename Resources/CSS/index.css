@@ -1,14 +1,20 @@
-* {
-    font-family: Arial, sans-serif;
-  }
+
+/* Universal Styles */
+html {
+  background-color: white;
+}
+
+/* Header */
+header {
+  background-color: aliceblue;
+}
+
+main.banner {
+  
+}
    
-   
-  h1 {
-    color: red;
-  }
-   
-   
-  p {
+
+p {
     font-size: 18px;
   }
 
